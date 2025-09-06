@@ -17,4 +17,5 @@
 ## DataSet
 - <a href="https://github.com/Awonfor/STELLA-MART-PROJECT/blob/36e53b9f267e573a3d3e8a157ce45ac5b7341263/Stellar%20Mart%20Corporation.csv">Dataset</a>
 ### Data Souce 
-- <a href=" https://github.com/Awonfor/STELLA-MART-PROJECT/blob/36e53b9f267e573a3d3e8a157ce45ac5b7341263/Stellar%20Mart%20Corporation.csv">Kaggle</a>
+- <a href="https://www.kaggle.com/datasets">Kaggle</a>
+

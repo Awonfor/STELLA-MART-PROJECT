@@ -21,12 +21,12 @@
 
 ## Dataset Insight
 - The Stellar Mart Corporation dataset from 2019 captures detailed retail transactions across three Myanmar cities (Yangon, Mandalay, and Naypyitaw). comprising the following columns
-      - Customer types (Member/Non-Member), 
-      - Gender demographics, 
-      - Six product lines (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
-      - Financial metrics (unit price, quantity, 5% tax, total amount, COGS, gross margins), 
-      - Three payment methods (Cash, Credit card, E-wallet), 
-      - Customer satisfaction ratings (1-10 scale);
+-   Customer types (Member/Non-Member),
+-   Gender demographics,
+-   Six product lines (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
+-   Financial metrics (unit price, quantity, 5% tax, total amount, COGS, gross margins),
+-   Three payment methods (Cash, Credit card, E-wallet),
+-   Customer satisfaction ratings (1-10 scale);
 - Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
 
 

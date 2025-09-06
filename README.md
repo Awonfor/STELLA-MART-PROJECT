@@ -8,3 +8,7 @@ The company offers a membership program called "Stellar Rewards," which provides
 From an operational perspective, Stellar Mart carefully tracks its financial metrics, including Cost of Goods Sold (COGS), gross margin percentages, gross income across all product lines and branches, and accepts three payment methods: Cash, credit cards, and E-wallets. 
 <img width="11059" height="183" alt="image" src="https://github.com/user-attachments/assets/1d589b7d-8516-44de-93f0-1e09e13429f4" />
 
+#Problem Statement 
+In 2019, Stellar Mart faces increasing competition in Myanmar's retail sector while experiencing inconsistent performance across its three city locations. Despite implementing a membership program and diverse payment options, the company observes varying levels of customer engagement, fluctuating sales patterns, and differing profitability metrics across product lines. Management needs to understand why certain branches outperform others and how customer preferences influence revenue generation.
+<img width="8782" height="183" alt="image" src="https://github.com/user-attachments/assets/33897035-93fa-426d-a71d-9e1f7ea04607" />
+

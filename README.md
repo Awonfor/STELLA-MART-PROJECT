@@ -36,5 +36,8 @@
 
 ## Workflow
 - Import Raw Data from <a href="https://www.kaggle.com/datasets">Kaggle</a>
+- Data Cleaning – removed duplicate records, replaced inconsistent text values in some columns and handled missing values to ensure dataset completeness in Excel
+- Data Validation – validated dataset integrity using SQL queries
+- Visualization – Developed interactive Power BI dashboards with drillthrough pages and hierarchical drill-down/drill-up functionality to enable deeper insights.
 
 

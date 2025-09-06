@@ -29,5 +29,9 @@
 -   Customer satisfaction ratings (1-10 scale);
 - Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
 
+## Tools Used
+- Excel; Data Cleaning and Preprocessing
+- SQL; Data Validation and querying
+- Power BI; Data Visualization and Dashboard Creation
 
 

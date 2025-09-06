@@ -34,4 +34,7 @@
 - SQL; Data Validation and querying
 - Power BI; Data Visualization and Dashboard Creation
 
+## Workflow
+- Import Raw Data from <a href="https://www.kaggle.com/datasets">Kaggle</a>
+
 

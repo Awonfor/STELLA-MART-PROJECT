@@ -14,8 +14,20 @@
 - Management needed to understand why certain branches outperform others and how customer preferences influence revenue generation.
 <img width="8782" height="183" alt="image" src="https://github.com/user-attachments/assets/33897035-93fa-426d-a71d-9e1f7ea04607" />
 
-## DataSet
+## DataSet Used
 - <a href="https://github.com/Awonfor/STELLA-MART-PROJECT/blob/36e53b9f267e573a3d3e8a157ce45ac5b7341263/Stellar%20Mart%20Corporation.csv">Dataset</a>
 ### Data Souce 
 - <a href="https://www.kaggle.com/datasets">Kaggle</a>
+
+## Dataset Insight
+- The Stellar Mart Corporation dataset from 2019 captures detailed retail transactions across three Myanmar cities (Yangon, Mandalay, and Naypyitaw). comprising the following columns
+      - Customer types (Member/Non-Member), 
+      - Gender demographics, 
+      - Six product lines (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
+      - Financial metrics (unit price, quantity, 5% tax, total amount, COGS, gross margins), 
+      - Three payment methods (Cash, Credit card, E-wallet), 
+      - Customer satisfaction ratings (1-10 scale);
+- Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
+
+
 

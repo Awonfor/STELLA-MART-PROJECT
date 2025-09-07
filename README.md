@@ -11,7 +11,7 @@
 ## Problem Statement 
 - In 2019, Stellar Mart faces increasing competition in Myanmar's retail sector while experiencing inconsistent performance across its three city locations.
 - Despite implementing a membership program and diverse payment options, the company observes varying levels of customer engagement, fluctuating sales patterns, and differing profitability metrics across product lines.
-- Management needed to understand why certain branches outperform others and how customer preferences influence revenue generation.
+- Management needs to understand why certain branches outperform others and how customer preferences influence revenue generation.
 <img width="8782" height="183" alt="image" src="https://github.com/user-attachments/assets/33897035-93fa-426d-a71d-9e1f7ea04607" />
 
 ## DataSet Used

@@ -15,7 +15,7 @@
 <img width="8782" height="183" alt="image" src="https://github.com/user-attachments/assets/33897035-93fa-426d-a71d-9e1f7ea04607" />
 
 ## DataSet Used
-- <a href="https://github.com/Awonfor/STELLA-MART-PROJECT/blob/36e53b9f267e573a3d3e8a157ce45ac5b7341263/Stellar%20Mart%20Corporation.csv">Dataset</a>
+- <a href="https://github.com/Awonfor/STELLA-MART-PROJECT/blob/main/Stellar%20Mart%20Corporation.csv">Dataset</a>
 ### Data Souce 
 - <a href="https://www.kaggle.com/datasets">Kaggle</a>
 

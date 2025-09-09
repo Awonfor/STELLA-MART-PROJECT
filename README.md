@@ -29,11 +29,14 @@
 -   Customer satisfaction ratings (1-10 scale);
 - Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
 
-# Key Performance Indicators<img width="1127" height="175" alt="image" src="https://github.com/user-attachments/assets/15bcb7ed-7649-4153-9e9c-b974eab99363" />
+# Key Performance Indicators
+  ## KPI                                                     |  ## Metric
+  -----------------------------------------------------------|---------------------------------------
+- Same-store sales growth rate                               |  ((Current month sales - Previous month sales)/ Previous month sales ) * 100
+(comparing each city’s month-over-month performance)         |
+                                                             |
+                                                             |
 
-- Same-store sales growth rate 
-(comparing each city’s month-over-month performance)
-<img width="954" height="126" alt="image" src="https://github.com/user-attachments/assets/7ec32860-4acb-4677-b30c-1ef0f15415e5" />
 
 
 

@@ -30,12 +30,12 @@
 - Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
 
 # Key Performance Indicators
-  ## KPI                                                     |  ## Metric
-  -----------------------------------------------------------|---------------------------------------
-- Same-store sales growth rate                               |  ((Current month sales - Previous month sales)/ Previous month sales ) * 100
-(comparing each city’s month-over-month performance)         |
-                                                             |
-                                                             |
+  ## KPI 
+
+- Same-store sales growth rate (comparing each city’s month-over-month performance)
+-     ((Current month sales - Previous month sales)/ Previous month sales ) * 100
+                                                             
+                                                             
 
 
 

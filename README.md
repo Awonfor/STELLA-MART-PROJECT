@@ -32,15 +32,15 @@
 # Key Performance Indicators
   ## KPI & metrics
 
-- Same-store sales growth rate (comparing each city’s month-over-month performance)
+- Same-store sales growth rate (comparing each city’s month-over-month performance) =
       ((Current month sales – previous month sales) / Previous month Sales) * 100
--  Member Value Ratio (%)
+-  Member Value Ratio (%) =
       (Total member revenue / Total revenue) * 100
--  Product Line Contribution To Total Revenue (%)
+-  Product Line Contribution To Total Revenue (%) =
       (Total Revenue / Revenue from product line) * 100
--  Customer Satisfaction Index (CSI)
+-  Customer Satisfaction Index (CSI) =
       Total ratings / (Response Count * Maximum Rating)
--  Payment Method Efficiency Ratio
+-  Payment Method Efficiency Ratio =
       Efficient Payment Transaction / Transaction Count
 
 ## Tools Used

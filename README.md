@@ -72,8 +72,9 @@
 -  Category Focus: Double down on food & beverages promotions, while improving cross-selling in underperforming product lines (e.g., health & beauty).
 -  Continuous Monitoring: Track branch-level KPIs monthly to identify sales dips early and adjust strategies proactively.
 
-
-
+## Individual Branch Performance 
+  ### Store A (Yangon)
+        
 
 
 

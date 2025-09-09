@@ -54,4 +54,20 @@
 - Data Validation – validated dataset integrity using SQL queries
 - Visualization – Built interactive dashboards in Power BI featuring drillthrough pages and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
 
+## GROUP LEVEL PERFORMANCE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

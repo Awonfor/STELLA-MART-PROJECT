@@ -58,6 +58,23 @@
   ### Group Level Performance 
 <img width="685" height="387" alt="Exec Dashboard" src="https://github.com/user-attachments/assets/4c014b76-c0dc-4814-aee7-3ec59c17b64c" />
 
+  ### Key Insight 
+-  Growth Trends: All three stores dipped in February 2019, with Store A hit hardest. Recovery occurred in March, but Store B’s rebound lagged behind others.
+-  Customer Engagement: Customer satisfaction is above average (69.8%), showing healthy service perception.
+-  Membership Program: Strong impact – members account for 50.8% of value and contribute 103.5% of revenue, driving more sales than non-members.
+-  Payment Methods: While cash generates the highest revenue, efficiency analysis shows credit cards deliver better performance.
+-  Product Performance: Food & beverages dominate revenue, followed by sports, electronics, fashion, and lifestyle categories.
+
+### Recommendation
+-  Branch-Level Strategy: Investigate Store A’s volatility and Store B’s slower growth; tailor localized promotions to stabilize performance.
+-  Leverage Memberships: Expand loyalty benefits and targeted campaigns to further capitalize on the revenue-driving member base.
+-  Optimize Payments: Encourage credit card adoption through incentives (e.g., discounts, cashback) to balance efficiency with customer preferences.
+-  Category Focus: Double down on food & beverages promotions, while improving cross-selling in underperforming product lines (e.g., health & beauty).
+-  Continuous Monitoring: Track branch-level KPIs monthly to identify sales dips early and adjust strategies proactively.
+
+
+
+
 
 
 

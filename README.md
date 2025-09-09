@@ -74,6 +74,7 @@
 
 ## Branch Level Performance 
   ### Store A (Yangon)
+  
 <img width="702" height="395" alt="Store A insight" src="https://github.com/user-attachments/assets/083f7183-f9ff-4513-8265-4eac3b9e76df" />
         
 

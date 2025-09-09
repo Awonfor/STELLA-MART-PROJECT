@@ -30,23 +30,18 @@
 - Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
 
 # Key Performance Indicators
-  ## KPI 
+  ## KPI & metrics
 
 - Same-store sales growth rate (comparing each city’s month-over-month performance)
--     ((Current month sales - Previous month sales)/ Previous month sales ) * 100
-                                                             
-                                                             
-
-
-
-
-
-
-
-
-
-
-
+      ((Current month sales – previous month sales) / Previous month Sales) * 100
+-  Member Value Ratio (%)
+      (Total member revenue / Total revenue) * 100
+-  Product Line Contribution To Total Revenue (%)
+      (Total Revenue / Revenue from product line) * 100
+-  Customer Satisfaction Index (CSI)
+      Total ratings / (Response Count * Maximum Rating)
+-  Payment Method Efficiency Ratio
+      Efficient Payment Transaction / Transaction Count
 
 ## Tools Used
 - Excel; Data Cleaning and Preprocessing

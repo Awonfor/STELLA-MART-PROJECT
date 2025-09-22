@@ -55,7 +55,7 @@
 - Visualization – Built interactive dashboards in Power BI featuring drillthrough pages and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
 
 ## DASHBOARD (Group Level Performance) 
-<img width="685" height="387" alt="Exec Dashboard" src="https://github.com/user-attachments/assets/4c014b76-c0dc-4814-aee7-3ec59c17b64c" />
+
 
  <img width="683" height="386" alt="Exec Dashboard Updated" src="https://github.com/user-attachments/assets/1906d2f3-403e-490f-81d8-7a0ca9b89d81" />
 

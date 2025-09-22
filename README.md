@@ -77,7 +77,8 @@
 ## Branch Level Performance 
   ### Store A (Yangon)
   
-<img width="702" height="395" alt="Store A insight" src="https://github.com/user-attachments/assets/083f7183-f9ff-4513-8265-4eac3b9e76df" />
+<img width="683" height="385" alt="Store A insight Updated" src="https://github.com/user-attachments/assets/0250f56d-c84a-459d-9da6-81587face1c6" />
+
         
 #### Key Insights (Concerns)
 -  Growth rate dropped sharply in February, though March showed recovery. This signals volatility in sales performance.
@@ -92,7 +93,8 @@
  -  Retention focus: Leverage high customer satisfaction by upselling members into higher-value categories.
 
 ### Store B (Mandalay)
-<img width="704" height="396" alt="Store B Insight" src="https://github.com/user-attachments/assets/0a8f264d-94e0-4e2e-ae88-c8e7e79108ae" />
+<img width="682" height="383" alt="Store B Insight updated" src="https://github.com/user-attachments/assets/b2d33c15-2a46-48b7-a8e0-1e5c40a7a24d" />
+
 #### Key Insights (Concerns)
 -  Weakest performer → only 0.5% growth rate, barely recovering after February.
 -  Top product line = Sports & Travel, but this is a seasonal/volatile category → explains unstable revenue growth.
@@ -106,7 +108,8 @@
 -  Growth push: Aggressive sales campaigns or partnerships are needed to lift growth beyond stagnation.
 
  ### Store C (Naypyitaw)
-<img width="706" height="396" alt="Store C Insight" src="https://github.com/user-attachments/assets/dd61252f-1f56-477d-8fd1-50872c88ff2d" />
+<img width="683" height="385" alt="Store C Insight Updated" src="https://github.com/user-attachments/assets/c42011ca-71c4-460d-8de4-6bdf3d636b88" />
+
 
 #### Key Insights 
 -  Moderate performance with 12.9% growth rate (better than Store B but weaker than Store A’s 26.1%).

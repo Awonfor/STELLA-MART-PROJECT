@@ -77,7 +77,7 @@ Power BI is an industry-leading business intelligence platform by Microsoft that
  - Customer Satisfaction: The gauge visual indicates a customer satisfaction rate of 69.8%, reflecting a generally positive perception of service quality.
  - Membership Impact: Card visuals on the dashboard show that members contribute 103.5% of total revenue and account for 50.8% of transaction value, highlighting the strong impact of the membership program on sales performance.
  - Payment Efficiency: While cash remains the highest revenue generator, credit card transactions demonstrate greater operational efficiency and consistency.
- - Product Performance: Stacked column charts reveal that Food & Beverages lead revenue generation, followed by Sports, Electronics, Fashion, and Lifestyle—indicating a strong product category hierarchy.
+ - Product Performance: Stacked column charts reveal that Food & Beverages lead revenue generation, followed by Sports, Electronics, Fashion, and Lifestyle indicating a strong product category hierarchy.
 ##### Negative Insights
  - Store-Level Volatility: Line chart analysis shows that all three stores experienced a significant dip in February 2019, with Store A most severely impacted. Although there was recovery in March, Store B's rebound was notably slower than the others.
  - Product Line Imbalance: Categories such as Health & Beauty and Lifestyle underperform relative to top contributors, suggesting untapped growth opportunities.

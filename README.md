@@ -72,7 +72,7 @@ Power BI is an industry-leading business intelligence platform by Microsoft that
 
 
 #### Key Insights
-#####Positive Insights
+##### Positive Insights
 
  - Customer Satisfaction: The gauge visual indicates a customer satisfaction rate of 69.8%, reflecting a generally positive perception of service quality.
  - Membership Impact: Card visuals on the dashboard show that members contribute 103.5% of total revenue and account for 50.8% of transaction value, highlighting the strong impact of the membership program on sales performance.

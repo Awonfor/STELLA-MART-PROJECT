@@ -68,6 +68,7 @@ Power BI is an industry-leading business intelligence platform by Microsoft that
 
 ### DASHBOARD (Group Level Performance) 
  <img width="683" height="386" alt="Exec Dashboard Updated" src="https://github.com/user-attachments/assets/1906d2f3-403e-490f-81d8-7a0ca9b89d81" />
+ 
 #### Key Insights
 ##### Positive Insights
 

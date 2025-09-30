@@ -138,6 +138,12 @@ https://github.com/user-attachments/assets/326916fb-b4dd-4385-84dd-71d55e954109
  - Local Market Campaigns (Based on Branch/City Filters): Launch location-specific promotions for Mandalay, targeting regional preferences to drive membership engagement and conversion.
  - Accelerate Growth (Using Overall KPI and Trends): Deploy aggressive sales strategies or local partnerships to push revenue beyond the current stagnation and capture untapped market share.
 
+   ### Store B Dashboard GIF 
+
+https://github.com/user-attachments/assets/9edba38e-1fc3-46e4-b6e8-cbda88c18f14
+
+
+
  ### Store C (Naypyitaw)
 <img width="683" height="385" alt="Store C Insight Updated" src="https://github.com/user-attachments/assets/c42011ca-71c4-460d-8de4-6bdf3d636b88" />
 
@@ -160,6 +166,12 @@ https://github.com/user-attachments/assets/326916fb-b4dd-4385-84dd-71d55e954109
  - Optimize Payment Mix (Payment Method Revenue Insight): Introduce credit card incentives such as cashback or member-only discounts to reduce cash dependence and improve margins.
  - Broaden Product Portfolio (Product Line Revenue Insight): Actively promote electronics and fashion accessories with cross-selling strategies and targeted campaigns to reduce over reliance on Food & Beverages.
  - Maximize Membership Impact (Customer Satisfaction & Membership Ratio Cards): Launch exclusive member-only campaigns, referral bonuses, and early-access offers to deepen loyalty and increase transaction sizes.
+
+### Store C Dashboard GIF 
+
+https://github.com/user-attachments/assets/d9219580-5939-4b60-8541-ad670fe9634b
+
+
 ## BUSINESS SOLUTION (Group + Branch)
 -  Stabilize Growth: Smooth sales volatility with consistent campaigns and seasonal product balancing.
 -  Boost Store B: Urgent focus on service quality, customer engagement, and category rebalancing.

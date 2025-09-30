@@ -1,4 +1,4 @@
-# STELLA MART SALES PERFORMANCE COMPARISON PROJECT
+# STELLA MART SALES COMPARISON KPI
 
 ## Background of Stellar Mart Corporation
 - Founded in 2015, Stellar Mart is a rapidly growing mid-sized supermarket chain operating across three major cities in Myanmar (Yangon, Mandalay, and Naypyitaw). 
@@ -29,17 +29,21 @@
 -   Gender demographics,
 -   Product Line: (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
 -   Unit Price: Price per unit sold,
--   Quantity :
--   Financial metrics (unit price, quantity, 5% tax, total amount, COGS, gross margins),
--   Three payment methods (Cash, Credit card, E-wallet),
+-   Quantity
+-   5% Tax
+-   Total
+-   COGs
+-   Gross Margins
+-   payment methods (Cash, Credit card, E-wallet),
 -   Customer satisfaction ratings (1-10 scale);
   
 
 # Key Performance Indicators
   ## KPI & metrics
 
-- Same-store sales growth rate (comparing each city’s month-over-month performance) =
-      ((Current month sales – previous month sales) / Previous month Sales) * 100
+- Same-Store Sales Growth Rate (comparing each city’s month-over-month performance)
+     Dax
+       % Growth Rate = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
 -  Member Value Ratio (%) =
       (Total member revenue / Total revenue) * 100
 -  Product Line Contribution To Total Revenue (%) =

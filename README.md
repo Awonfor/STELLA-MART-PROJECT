@@ -45,7 +45,7 @@
      - DAX: SSGR = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
 -  Member Value Ratio (%) =
      - DAX: MVR = Member Value Ratio = ([Total Member Revenue]/[Total Revenue]) 
--  Product Line Contribution To Total Revenue (%) =
+-  Product Line Contribution to Total Revenue (%) =
      - DAX: Product Contribution % = DIVIDE([Total Revenue],CALCULATE([Total Revenue],ALL('Main Tables'[Product_line])),0) 
 -  Customer Satisfaction Index (CSI) =
      - DAX: CSI = DIVIDE([Total Ratings], [Total Responses]*[Max Rating])

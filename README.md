@@ -42,43 +42,52 @@
   ## KPI & metrics
 
 - Same-Store Sales Growth Rate (comparing each city’s month-over-month performance)
-     - = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
+     - DAX: SSGR = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
 -  Member Value Ratio (%) =
-      (Total member revenue / Total revenue) * 100
+     - DAX: MVR = Member Value Ratio = ([Total Member Revenue]/[Total Revenue]) 
 -  Product Line Contribution To Total Revenue (%) =
-      (Total Revenue / Revenue from product line) * 100
+     - DAX: Product Contribution % = DIVIDE([Total Revenue],CALCULATE([Total Revenue],ALL('Main Tables'[Product_line])),0) 
 -  Customer Satisfaction Index (CSI) =
-      Total ratings / (Response Count * Maximum Rating)
+     - DAX: CSI = DIVIDE([Total Ratings], [Total Responses]*[Max Rating])
 -  Payment Method Efficiency Ratio =
-      Efficient Payment Transaction / Transaction Count
+     - DAX: Payment Method Efficiency Ratio = [Efficient Payment Transaction] / [Transaction Count]
 
 ## Workflow
 - Management needed to understand why certain branches outperform others and how customer preference influence revenue generation
 - Imported Raw Data from <a href="https://www.kaggle.com/datasets">Kaggle</a>
 - Data Cleaning – Removed duplicate records, replaced inconsistent text values in some columns and handled missing values to ensure dataset completeness in Excel
-- Data Validation – Used T-SQL to validate the cleaned excel data
-- Visualization – Built interactive dashboards in Power BI featuring drillthrough pages and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
+- Data Validation – Imported the clean excel file in to SQL for data validation.
+- Visualization – Built interactive dashboards in Power BI featuring drillthrough pages, Custom highly advanced interractive tooltips and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
+
+<img width="501" height="379" alt="Stellar Mart Model" src="https://github.com/user-attachments/assets/d4351a7f-8cfe-4b7e-bdb8-87ff5328fbee" />
+
+
 ## VISUALIZATION 
 Power BI is an industry-leading business intelligence platform by Microsoft that I use to design and deploy dynamic, data-driven dashboards and reports. With deep integration capabilities across diverse data sources, Power BI enables efficient data modeling, real-time analytics, and interactive visual storytelling. My projects leverage Power BI’s advanced features—such as DAX, Power Query, and custom visuals—to deliver actionable insights and support data-informed decision-making at scale.
+
 ### DASHBOARD (Group Level Performance) 
 
 
  <img width="683" height="386" alt="Exec Dashboard Updated" src="https://github.com/user-attachments/assets/1906d2f3-403e-490f-81d8-7a0ca9b89d81" />
 
 
-  #### Key Insights 
--  Growth Trends: All three stores dipped in February 2019, with Store A hit hardest. Recovery occurred in March, but Store B’s rebound lagged behind others.
--  Customer Engagement: Customer satisfaction is above average (69.8%), showing healthy service perception.
--  Membership Program: Strong impact – members account for 50.8% of value and contribute 103.5% of revenue, driving more sales than non-members.
--  Payment Methods: While cash generates the highest revenue, efficiency analysis shows credit cards deliver better performance.
--  Product Performance: Food & beverages dominate revenue, followed by sports, electronics, fashion, and lifestyle categories.
+#### Key Insights
+#####Positive Insights
+
+ - Customer Satisfaction: The gauge visual indicates a customer satisfaction rate of 69.8%, reflecting a generally positive perception of service quality.
+ - Membership Impact: Card visuals on the dashboard show that members contribute 103.5% of total revenue and account for 50.8% of transaction value, highlighting the strong impact of the membership program on sales performance.
+ - Payment Efficiency: While cash remains the highest revenue generator, credit card transactions demonstrate greater operational efficiency and consistency.
+ - Product Performance: Stacked column charts reveal that Food & Beverages lead revenue generation, followed by Sports, Electronics, Fashion, and Lifestyle—indicating a strong product category hierarchy.
+##### Negative Insights
+ - Store-Level Volatility: Line chart analysis shows that all three stores experienced a significant dip in February 2019, with Store A most severely impacted. Although there was recovery in March, Store B's rebound was notably slower than the others.
+ - Product Line Imbalance: Categories such as Health & Beauty and Lifestyle underperform relative to top contributors, suggesting untapped growth opportunities.
 
 #### Recommendations
--  Branch-Level Strategy: Investigate Store A’s volatility and Store B’s slower growth; tailor localized promotions to stabilize performance.
--  Leverage Memberships: Expand loyalty benefits and targeted campaigns to further capitalize on the revenue-driving member base.
--  Optimize Payments: Encourage credit card adoption through incentives (e.g., discounts, cashback) to balance efficiency with customer preferences.
--  Category Focus: Double down on food & beverages promotions, while improving cross-selling in underperforming product lines (e.g., health & beauty).
--  Continuous Monitoring: Track branch-level KPIs monthly to identify sales dips early and adjust strategies proactively.
+ - Store Performance Optimization: Conduct root cause analysis for Store A’s volatility and implement localized promotions or operational changes. For Store B, introduce targeted growth strategies to accelerate performance recovery.
+ - Expand Membership Leverage: Strengthen the membership program by introducing tiered rewards, personalized offers, and retention initiatives to further enhance its already substantial revenue contribution.
+ - Drive Efficient Payments: Promote credit card usage through incentives like discounts or cashback to align high revenue with greater operational efficiency.
+ - Refocus Product Strategy: Increase marketing efforts in high-performing categories such as Food & Beverages, while implementing cross-sell and bundling strategies in underperforming lines like Health & Beauty.
+ - Implement Proactive Monitoring: Establish monthly KPI tracking at the store level to quickly identify performance drops and deploy corrective actions in real time.
 
 ## Branch Level Performance 
   ### Store A (Yangon)

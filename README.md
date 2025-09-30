@@ -95,50 +95,66 @@ Power BI is an industry-leading business intelligence platform by Microsoft that
 <img width="683" height="385" alt="Store A insight Updated" src="https://github.com/user-attachments/assets/0250f56d-c84a-459d-9da6-81587face1c6" />
 
         
-#### Key Insights (Concerns)
--  Growth rate dropped sharply in February, though March showed recovery. This signals volatility in sales performance.
--  Top product line = Home & Lifestyle, but this category is lower-performing at the group level. This is a  risk of over-dependence on a weaker product line.
--  Payment preference is E-wallet, yet efficiency analysis shows credit cards are more profitable. Mismatch between customer preference and profitability.
--  Customer satisfaction is relatively high (70.4%), but sales volatility may eventually erode loyalty.
-  
-#### Recommendations
- -  Diversify product focus: Cross-sell food & beverages (the group’s strongest product line) to reduce over-reliance on home & lifestyle.
- -  Stabilize sales cycles: Introduce consistent monthly promotions to smooth out dips like February.
- -  Payment optimization: Offer targeted incentives (e.g., discounts, loyalty points) to encourage credit card adoption.
- -  Retention focus: Leverage high customer satisfaction by upselling members into higher-value categories.
+#### Key Insights
+##### Positive Insights
+ - Customer Satisfaction (Gauge Visual): Satisfaction stands at 70.4%, indicating strong service perception and opportunity for deeper engagement.
+ - Membership Performance (Card Visuals, Member Value Ratio & Member Revenue Ratio): Members contribute 102.04% of total revenue and represent 50.5% of value, demonstrating the effectiveness of the loyalty program in driving revenue.
+ - Digital Payment Preference (Stacked Bar Chart – Payment Method Revenue):E-wallets lead in usage, showing strong customer adoption of digital payments.
+##### Negative Insights
+ - Sales Volatility (Line Chart – Monthly Same Store Growth Rate): A sharp dip in February 2019 followed by recovery in March signals inconsistent sales performance, potentially affecting forecasting and planning.
+ - Category Concentration Risk (Stacked Column Chart – Product Line Revenue + Card Visual & Top Selling Product): Home & Lifestyle is the top-selling category at Store A but is underperforming at the group level, posing a risk due to over-reliance on a weaker segment.
+ - Profitability Mismatch (Payment Method Revenue – Stacked Bar Chart): While E-wallets generate the most revenue, credit cards offer higher efficiency and profitability, highlighting a gap between customer preference and business optimization.
+ - Retention Risk (Combination of Gauge + Line Chart): Although customer satisfaction is high, continued sales volatility may weaken loyalty if not proactively addressed.
+##### Recommendations
+ - Broaden Product Strategy (Based on Product Line Revenue): Reduce dependence on Home & Lifestyle by cross-selling high-performing categories like Food & Beverages.
+ - Stabilize Sales Patterns (Informed by Monthly Growth Rate Chart): Introduce recurring monthly promotions to smooth out dips and maintain steady growth.
+ - Optimize Payment Mix (Based on Payment Method Revenue Chart): Promote credit card usage through incentives (e.g., discounts, cashback, loyalty points) to improve profitability while maintaining user convenience.
+ - Upsell Loyal Customers (Leveraging Membership & Satisfaction KPIs): Use strong satisfaction and loyalty data to upsell members into higher-margin categories, increasing customer lifetime value.
 
+   
 ### Store B (Mandalay)
 <img width="682" height="383" alt="Store B Insight updated" src="https://github.com/user-attachments/assets/b2d33c15-2a46-48b7-a8e0-1e5c40a7a24d" />
 
-#### Key Insights (Concerns)
--  Weakest performer → only 0.5% growth rate, barely recovering after February.
--  Top product line = Sports & Travel, but this is a seasonal/volatile category → explains unstable revenue growth.
--  Customer satisfaction is lowest (68.2%) among branches → risk of churn.
--  Payment split is more balanced (credit card $37K, cash $35K, e-wallet $34K), but revenue remains stagnant → customer engagement is low despite available options.
+#### Key Insights 
+##### Positive Insights
+ - Balanced Payment Distribution (Stacked Bar Chart – Payment Method Revenue): Revenue is evenly split across credit card ($37K), cash ($35K), and e-wallet ($34K), reflecting strong availability of customer payment options and digital adoption.
+ - Strong Membership Performance (Card Visuals – Member Value Ratio & Revenue Ratio): Members represent 50.6% of value and contribute 102.31% of revenue, reinforcing the ongoing strength of loyalty-driven sales.
 
-#### Recommendations
--  Customer engagement: Improve satisfaction through service quality and personalized offers.
--  Category rebalancing: Promote higher-margin, stable product lines (e.g., food & beverages, fashion accessories) alongside sports & travel.
--  Local campaigns: Tailor promotions to Mandalay’s customer base to boost participation and membership engagement.
--  Growth push: Aggressive sales campaigns or partnerships are needed to lift growth beyond stagnation.
+ ##### Negative Insights
+ - Minimal Growth (Card Visual – Growth Rate & Line Chart – Monthly Growth): Store B has the lowest growth rate at 0.5%, with only a slight rebound in March following February’s decline, suggesting persistently weak momentum.
+ - Category Instability (Card Visual – Top Selling Product Line & Column Chart – Product Line Revenue): Sports & Travel is the top-selling product, but its seasonal nature contributes to revenue volatility, making it a less stable primary driver.
+ - Low Customer Satisfaction (Gauge Visual – Customer Satisfaction): At 68.2%, Store B reports the lowest satisfaction rate among all branches, increasing the risk of customer churn.
+ - Stagnant Revenue Despite Options (Payment Method Revenue + Overall Revenue KPI): Even with a diverse mix of payment options, total revenue remains flat, signaling low customer engagement or weak promotional traction.
+
+ ##### Recommendations
+ - Improve Customer Engagement (Based on Satisfaction Gauge & Growth Trend): Enhance service quality and deliver personalized offers or loyalty perks to boost satisfaction and repeat visits.
+ - Category Rebalancing (Product Line Revenue Insight): Reduce over-dependence on seasonal categories like Sports & Travel by actively promoting stable, higher-margin lines such as Food & Beverages and Fashion Accessories.
+ - Local Market Campaigns (Based on Branch/City Filters): Launch location-specific promotions for Mandalay, targeting regional preferences to drive membership engagement and conversion.
+ - Accelerate Growth (Using Overall KPI and Trends): Deploy aggressive sales strategies or local partnerships to push revenue beyond the current stagnation and capture untapped market share.
 
  ### Store C (Naypyitaw)
 <img width="683" height="385" alt="Store C Insight Updated" src="https://github.com/user-attachments/assets/c42011ca-71c4-460d-8de4-6bdf3d636b88" />
 
 
-#### Key Insights 
--  Moderate performance with 12.9% growth rate (better than Store B but weaker than Store A’s 26.1%).
--  Top product line = Food & Beverages, aligning with group-wide success, but still underperforming compared to Store A’s revenue scale.
--  Cash dominates payments ($43K), which is less efficient than credit cards, showing reliance on low-margin payment methods.
--  Customer satisfaction is high (70.6%), and membership contribution is strong (105.9%) → growth potential exists, but product mix is not fully optimized.
-  
-  #### Recommendations
--  Capitalize on strong category: Expand Food & Beverage promotions to further scale revenue in Naypyitaw.
--  Shift payment behavior: Encourage credit card/e-wallet use to improve efficiency and profitability.
--  Revenue diversification: Push growth in electronics and fashion accessories to balance product portfolio.
--  Scale loyalty impact: Leverage strong membership performance by rolling out exclusive member-only campaigns.
+#### Key Insights
+##### Positive Insights
+ - Moderate Growth Momentum (Card Visual – Growth Rate & Line Chart – Monthly Same Store Growth Rate): Store C posted a 12.9% growth rate, outperforming Store B’s flat trend, with signs of recovery in March after February’s dip.
+ - Category Leadership (Card Visual – Top Selling Product Line & Column Chart – Product Line Revenue): Food & Beverages is the top-selling product line ($24K), consistent with group-wide success and serving as a reliable revenue driver.
+ - High Customer Satisfaction (Gauge Visual – Customer Satisfaction): At 70.6%, satisfaction is one of the strongest among branches, indicating a positive customer experience.
+ - Robust Membership Contribution (Card Visuals – Member Value Ratio & Member Revenue Ratio): Members represent 51.4% of value and contribute 105.95% of revenue, showing loyalty programs are effectively driving sales.
 
-## Management Priorities (Group + Branch)
+##### Negative Insights
+ - Growth Gap vs. Store A (Card Visual – Growth Rate & Line Chart – Monthly Same Store Growth Rate): While growth is positive, Store C underperforms compared to Store A’s 26.1%, highlighting missed scaling opportunities.
+ - Revenue Scale Lag (Column Chart – Product Line Revenue): Despite Food & Beverages leading, total revenue lags behind Store A, signaling slower market capture.
+ - Over-Reliance on Cash (Stacked Bar Chart – Payment Method Revenue): Cash dominates transactions ($43K), reducing Efficiency compared to credit card usage.
+ - Underperformance in Other Categories (Column Chart – Product Line Revenue): Electronics ($19K), fashion accessories ($22K), and lifestyle ($14K) trail far behind F&B, revealing weak diversification.
+
+##### Recommendations
+ - Scale Core Category Strength (Product Line Revenue Insight): Intensify Food & Beverage promotions through bundles, seasonal deals, and loyalty-based incentives to cement leadership and boost revenue.
+ - Optimize Payment Mix (Payment Method Revenue Insight): Introduce credit card incentives such as cashback or member-only discounts to reduce cash dependence and improve margins.
+ - Broaden Product Portfolio (Product Line Revenue Insight): Actively promote electronics and fashion accessories with cross-selling strategies and targeted campaigns to reduce over reliance on Food & Beverages.
+ - Maximize Membership Impact (Customer Satisfaction & Membership Ratio Cards): Launch exclusive member-only campaigns, referral bonuses, and early-access offers to deepen loyalty and increase transaction sizes.
+## BUSINESS SOLUTION (Group + Branch)
 -  Stabilize Growth: Smooth sales volatility with consistent campaigns and seasonal product balancing.
 -  Boost Store B: Urgent focus on service quality, customer engagement, and category rebalancing.
 -  Optimize Payments: Shift customers from cash/e-wallet toward credit cards with targeted incentives.

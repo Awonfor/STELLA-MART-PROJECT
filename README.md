@@ -112,7 +112,12 @@ https://github.com/user-attachments/assets/f64594a0-a4c1-4c12-8c79-d877e717b3f7
  - Optimize Payment Mix (Based on Payment Method Revenue Chart): Promote credit card usage through incentives (e.g., discounts, cashback, loyalty points) to improve profitability while maintaining user convenience.
  - Upsell Loyal Customers (Leveraging Membership & Satisfaction KPIs): Use strong satisfaction and loyalty data to upsell members into higher-margin categories, increasing customer lifetime value.
 
-   
+### Store A Dashboard GIF 
+
+https://github.com/user-attachments/assets/326916fb-b4dd-4385-84dd-71d55e954109
+
+
+
 ### Store B (Mandalay)
 <img width="682" height="383" alt="Store B Insight updated" src="https://github.com/user-attachments/assets/b2d33c15-2a46-48b7-a8e0-1e5c40a7a24d" />
 

@@ -1,5 +1,9 @@
 # STELLA MART SALES COMPARISON KPI
 
+
+https://github.com/user-attachments/assets/f64594a0-a4c1-4c12-8c79-d877e717b3f7
+
+
 ## Background of Stellar Mart Corporation
 - Founded in 2015, Stellar Mart is a rapidly growing mid-sized supermarket chain operating across three major cities in Myanmar (Yangon, Mandalay, and Naypyitaw). 
 - The company has positioned itself as a customer-centric retailer offering a diverse range of products across six carefully curated product lines: Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, and Health and Beauty.

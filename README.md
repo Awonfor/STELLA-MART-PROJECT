@@ -67,12 +67,7 @@
 Power BI is an industry-leading business intelligence platform by Microsoft that I use to design and deploy dynamic, data-driven dashboards and reports. With deep integration capabilities across diverse data sources, Power BI enables efficient data modeling, real-time analytics, and interactive visual storytelling. My projects leverage Power BI’s advanced features—such as DAX, Power Query, and custom visuals—to deliver actionable insights and support data-informed decision-making at scale.
 
 ### DASHBOARD (Group Level Performance) 
-
-https://github.com/user-attachments/assets/f64594a0-a4c1-4c12-8c79-d877e717b3f7
-
  <img width="683" height="386" alt="Exec Dashboard Updated" src="https://github.com/user-attachments/assets/1906d2f3-403e-490f-81d8-7a0ca9b89d81" />
-
-
 #### Key Insights
 ##### Positive Insights
 
@@ -90,6 +85,9 @@ https://github.com/user-attachments/assets/f64594a0-a4c1-4c12-8c79-d877e717b3f7
  - Drive Efficient Payments: Promote credit card usage through incentives like discounts or cashback to align high revenue with greater operational efficiency.
  - Refocus Product Strategy: Increase marketing efforts in high-performing categories such as Food & Beverages, while implementing cross-sell and bundling strategies in underperforming lines like Health & Beauty.
  - Implement Proactive Monitoring: Establish monthly KPI tracking at the store level to quickly identify performance drops and deploy corrective actions in real time.
+
+### Group Dashboard GIF 
+https://github.com/user-attachments/assets/f64594a0-a4c1-4c12-8c79-d877e717b3f7
 
 ## Branch Level Performance 
   ### Store A (Yangon)

@@ -58,7 +58,7 @@
 - Data Cleaning – Removed duplicate records, replaced inconsistent text values in some columns and handled missing values to ensure dataset completeness in Excel
 - Data Validation – Imported the clean excel file in to SQL for data validation.
 - Visualization – Built interactive dashboards in Power BI featuring drillthrough pages, Custom highly advanced interractive tooltips and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
-
+### Project Model
 <img width="501" height="379" alt="Stellar Mart Model" src="https://github.com/user-attachments/assets/d4351a7f-8cfe-4b7e-bdb8-87ff5328fbee" />
 
 

@@ -9,9 +9,7 @@
 <img width="11059" height="183" alt="image" src="https://github.com/user-attachments/assets/1d589b7d-8516-44de-93f0-1e09e13429f4" />
 
 ## Problem Statement 
-- In 2019, Stellar Mart faces increasing competition in Myanmar's retail sector while experiencing inconsistent performance across its three city locations.
-- Despite implementing a membership program and diverse payment options, the company observes varying levels of customer engagement, fluctuating sales patterns, and differing profitability metrics across product lines.
-- Management needs to understand why certain branches outperform others and how customer preferences influence revenue generation.
+ In 2019, Stellar Mart faced increasing competition in Myanmar's retail sector while experiencing inconsistent performance across its three city locations. Despite implementing a membership program and diverse payment options, the company observed varying levels of customer engagement, fluctuating sales patterns, and differing profitability metrics across product line. Management needed to understand why certain branches outperform others and how customer preference influence revenue generation.
 <img width="8782" height="183" alt="image" src="https://github.com/user-attachments/assets/33897035-93fa-426d-a71d-9e1f7ea04607" />
 
 ## DataSet Used
@@ -19,15 +17,23 @@
 ### Data Souce 
 - <a href="https://www.kaggle.com/datasets">Kaggle</a>
 
+## Tools Used
+- Excel    : Data Cleaning and Preprocessing
+- SQL      : Data Validation and querying
+- Power BI : Data Visualization and Dashboard Creation
+
+  
 ## Dataset Insight
-- The Stellar Mart Corporation dataset from 2019 captures detailed retail transactions across three Myanmar cities (Yangon, Mandalay, and Naypyitaw). comprising the following columns
--   Customer types (Member/Non-Member),
+- The Stellar Mart Corporation dataset from 2019 captures detail retail transactions across three Myanmar cities (Yangon, Mandalay, and Naypyitaw). Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance. comprising the following columns
+-   Customer type (Member/Non-Member),
 -   Gender demographics,
--   Six product lines (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
+-   Product Line: (Food and Beverages, Fashion Accessories, Electronic Accessories, Sports and Travel, Home and Lifestyle, Health and Beauty),
+-   Unit Price: Price per unit sold,
+-   Quantity :
 -   Financial metrics (unit price, quantity, 5% tax, total amount, COGS, gross margins),
 -   Three payment methods (Cash, Credit card, E-wallet),
 -   Customer satisfaction ratings (1-10 scale);
-- Providing comprehensive insights into the supermarket chain's operations, customer behavior, and business performance.
+  
 
 # Key Performance Indicators
   ## KPI & metrics
@@ -43,18 +49,15 @@
 -  Payment Method Efficiency Ratio =
       Efficient Payment Transaction / Transaction Count
 
-## Tools Used
-- Excel; Data Cleaning and Preprocessing
-- SQL; Data Validation and querying
-- Power BI; Data Visualization and Dashboard Creation
-
 ## Workflow
-- Import Raw Data from <a href="https://www.kaggle.com/datasets">Kaggle</a>
-- Data Cleaning – removed duplicate records, replaced inconsistent text values in some columns and handled missing values to ensure dataset completeness in Excel
-- Data Validation – validated dataset integrity using SQL queries
+- Management needed to understand why certain branches outperform others and how customer preference influence revenue generation
+- Imported Raw Data from <a href="https://www.kaggle.com/datasets">Kaggle</a>
+- Data Cleaning – Removed duplicate records, replaced inconsistent text values in some columns and handled missing values to ensure dataset completeness in Excel
+- Data Validation – Used T-SQL to validate the cleaned excel data
 - Visualization – Built interactive dashboards in Power BI featuring drillthrough pages and hierarchical drill-down/up functionality to enable detailed data exploration and actionable insights.
-
-## DASHBOARD (Group Level Performance) 
+## VISUALIZATION 
+Power BI is an industry-leading business intelligence platform by Microsoft that I use to design and deploy dynamic, data-driven dashboards and reports. With deep integration capabilities across diverse data sources, Power BI enables efficient data modeling, real-time analytics, and interactive visual storytelling. My projects leverage Power BI’s advanced features—such as DAX, Power Query, and custom visuals—to deliver actionable insights and support data-informed decision-making at scale.
+### DASHBOARD (Group Level Performance) 
 
 
  <img width="683" height="386" alt="Exec Dashboard Updated" src="https://github.com/user-attachments/assets/1906d2f3-403e-490f-81d8-7a0ca9b89d81" />

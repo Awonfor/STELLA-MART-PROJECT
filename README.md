@@ -42,8 +42,7 @@
   ## KPI & metrics
 
 - Same-Store Sales Growth Rate (comparing each city’s month-over-month performance)
-     Dax
-       % Growth Rate = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
+     - = DIVIDE( [Current Month Sales] - [Previous Month Sales], [Previous Month Sales],0)
 -  Member Value Ratio (%) =
       (Total member revenue / Total revenue) * 100
 -  Product Line Contribution To Total Revenue (%) =
